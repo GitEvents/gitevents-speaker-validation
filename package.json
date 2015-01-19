@@ -1,0 +1,33 @@
+{
+  "name": "lnug-speaker-checker-bot",
+  "version": "0.0.1",
+  "description": "a github api bot which reminds people to include required information",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/capaj/lnug-speaker-checker-bot.git"
+  },
+  "keywords": [
+    "lnug",
+    "github",
+    "bot"
+  ],
+  "author": "capajj@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/capaj/lnug-speaker-checker-bot/issues"
+  },
+  "homepage": "https://github.com/capaj/lnug-speaker-checker-bot",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "joi": "^5.1.0",
+    "marked": "^0.3.2",
+    "request": "^2.51.0"
+  }
+}

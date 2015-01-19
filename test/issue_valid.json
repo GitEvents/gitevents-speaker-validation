@@ -1,0 +1,42 @@
+{
+  "url": "https://api.github.com/repos/capaj/gitup/issues/1",
+  "labels_url": "https://api.github.com/repos/capaj/gitup/issues/1/labels{/name}",
+  "comments_url": "https://api.github.com/repos/capaj/gitup/issues/1/comments",
+  "events_url": "https://api.github.com/repos/capaj/gitup/issues/1/events",
+  "html_url": "https://github.com/capaj/gitup/issues/1",
+  "id": 54820878,
+  "number": 1,
+  "title": "just a test",
+  "user": {
+    "login": "capaj",
+    "id": 1305378,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1305378?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/capaj",
+    "html_url": "https://github.com/capaj",
+    "followers_url": "https://api.github.com/users/capaj/followers",
+    "following_url": "https://api.github.com/users/capaj/following{/other_user}",
+    "gists_url": "https://api.github.com/users/capaj/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/capaj/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/capaj/subscriptions",
+    "organizations_url": "https://api.github.com/users/capaj/orgs",
+    "repos_url": "https://api.github.com/users/capaj/repos",
+    "events_url": "https://api.github.com/users/capaj/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/capaj/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "labels": [
+
+  ],
+  "state": "open",
+  "locked": false,
+  "assignee": null,
+  "milestone": null,
+  "comments": 0,
+  "created_at": "2015-01-19T22:35:19Z",
+  "updated_at": "2015-01-19T22:35:19Z",
+  "closed_at": null,
+  "body": "- Title: test title\r\n- Month: 1\r\n- Twitter: @capajj\r\n\r\nWe want to keep node-core very lean, so I don't think NPM will ever make it in. However I can imagine a future where a \"distribution\" of Node might contain NPM. For example, if we ever get around to making an official windows installers - that would be a good thing to include.",
+  "closed_by": null
+}
